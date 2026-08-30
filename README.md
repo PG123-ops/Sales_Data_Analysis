@@ -1,10 +1,10 @@
-# 📊 Sales & Profit Analysis Dashboard — Power BI
+#  Sales & Profit Analysis Dashboard — Power BI
 
 An interactive **Sales & Profit Analysis Dashboard** built using **Microsoft Power BI** to analyze sales performance, profitability, customers, products, regions, and business trends.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how raw sales data can be transformed into an interactive Business Intelligence dashboard using:
 
@@ -19,7 +19,7 @@ The dashboard provides a centralized view of important business KPIs and allows 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The main objectives of this project are to:
 
@@ -36,7 +36,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool / Technology | Purpose |
 |---|---|
@@ -49,7 +49,7 @@ The main objectives of this project are to:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Sales_Data_Analysis/
